@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kevy</string>
+    <string name="top_label">Generate a number to play</string>
+    <string name="generated_number">0</string>
+    <string name="button_generate">Generate</string>
+</resources>
